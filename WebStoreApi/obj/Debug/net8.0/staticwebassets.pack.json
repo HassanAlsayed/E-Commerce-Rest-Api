@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\webStoreApi\\WebStoreApi\\WebStoreApi\\wwwroot\\images\\products\\473f52ed-b4e1-4d90-88a9-e88899510609.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\473f52ed-b4e1-4d90-88a9-e88899510609.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\webStoreApi\\WebStoreApi\\WebStoreApi\\wwwroot\\images\\products\\df467c83-f7ef-4ebc-9456-661dd4568437.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\df467c83-f7ef-4ebc-9456-661dd4568437.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\webStoreApi\\WebStoreApi\\WebStoreApi\\wwwroot\\images\\products\\f0face88-ac34-48b5-ab82-a354a3d0a091.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\f0face88-ac34-48b5-ab82-a354a3d0a091.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebStoreApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebStoreApi.props",
+      "PackagePath": "build\\WebStoreApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebStoreApi.props",
+      "PackagePath": "buildMultiTargeting\\WebStoreApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebStoreApi.props",
+      "PackagePath": "buildTransitive\\WebStoreApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

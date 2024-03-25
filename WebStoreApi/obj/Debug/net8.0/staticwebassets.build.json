@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "bQG8OdkwEYuw+q+FxfF/URbZTsbruuJkbA0OZAhGsv4=",
+  "Source": "WebStoreApi",
+  "BasePath": "_content/WebStoreApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebStoreApi\\wwwroot",
+      "Source": "WebStoreApi",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\webStoreApi\\WebStoreApi\\WebStoreApi\\wwwroot\\",
+      "BasePath": "_content/WebStoreApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\webStoreApi\\WebStoreApi\\WebStoreApi\\wwwroot\\images\\products\\473f52ed-b4e1-4d90-88a9-e88899510609.jpg",
+      "SourceId": "WebStoreApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\webStoreApi\\WebStoreApi\\WebStoreApi\\wwwroot\\",
+      "BasePath": "_content/WebStoreApi",
+      "RelativePath": "images/products/473f52ed-b4e1-4d90-88a9-e88899510609.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\473f52ed-b4e1-4d90-88a9-e88899510609.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\webStoreApi\\WebStoreApi\\WebStoreApi\\wwwroot\\images\\products\\df467c83-f7ef-4ebc-9456-661dd4568437.jpg",
+      "SourceId": "WebStoreApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\webStoreApi\\WebStoreApi\\WebStoreApi\\wwwroot\\",
+      "BasePath": "_content/WebStoreApi",
+      "RelativePath": "images/products/df467c83-f7ef-4ebc-9456-661dd4568437.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\df467c83-f7ef-4ebc-9456-661dd4568437.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\webStoreApi\\WebStoreApi\\WebStoreApi\\wwwroot\\images\\products\\f0face88-ac34-48b5-ab82-a354a3d0a091.jpg",
+      "SourceId": "WebStoreApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\webStoreApi\\WebStoreApi\\WebStoreApi\\wwwroot\\",
+      "BasePath": "_content/WebStoreApi",
+      "RelativePath": "images/products/f0face88-ac34-48b5-ab82-a354a3d0a091.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\f0face88-ac34-48b5-ab82-a354a3d0a091.jpg"
+    }
+  ]
+}
